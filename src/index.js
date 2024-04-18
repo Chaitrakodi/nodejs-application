@@ -17,7 +17,7 @@ const PORT = 3001;
 // basic routes
 router(app);
 app.get("/", (req, res) => {
-   res.send("<h1> Hello World </h1>");
+   res.send("<h1> Hello Chaitra </h1>");
 });
 
 // middleware
